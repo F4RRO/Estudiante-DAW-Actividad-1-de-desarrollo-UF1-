@@ -1,0 +1,6 @@
+C:\Users\fabia\source\repos\UF1 DESARROLLO FABIAN ARROYO\obj\Debug\UF1 DESARROLLO FABIAN ARROYO.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\UF1 DESARROLLO FABIAN ARROYO\obj\Debug\UF1 DESARROLLO FABIAN ARROYO.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\UF1 DESARROLLO FABIAN ARROYO\bin\Debug\UF1 DESARROLLO FABIAN ARROYO.exe
+C:\Users\fabia\source\repos\UF1 DESARROLLO FABIAN ARROYO\bin\Debug\UF1 DESARROLLO FABIAN ARROYO.pdb
+C:\Users\fabia\source\repos\UF1 DESARROLLO FABIAN ARROYO\obj\Debug\UF1 DESARROLLO FABIAN ARROYO.exe
+C:\Users\fabia\source\repos\UF1 DESARROLLO FABIAN ARROYO\obj\Debug\UF1 DESARROLLO FABIAN ARROYO.pdb
